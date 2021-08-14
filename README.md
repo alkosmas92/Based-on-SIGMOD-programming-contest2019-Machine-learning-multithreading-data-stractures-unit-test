@@ -2,6 +2,9 @@ Project with machine learning for university lesson:
 Ανάπτυξη Λογισμικού για Πληροφοριακά Συστήματα στο τμήμα Πληροφορικής και Τηλεποικωνιών 
 
 
+https://github.com/alkosmas92/Machine-learning/blob/main/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE_%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC.pdf
+
+
 UniTesting:
 
 Για το uni testing χρησιμοποιούμε την βιβλιοθήκη acutest.h
