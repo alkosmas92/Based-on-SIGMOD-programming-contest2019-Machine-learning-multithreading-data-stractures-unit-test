@@ -1,4 +1,4 @@
-
+Project with machine learning for university lesson:
 Ανάπτυξη Λογισμικού για Πληροφοριακά Συστήματα
 
 
