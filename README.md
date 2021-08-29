@@ -8,7 +8,7 @@ Project with machine learning for university lesson:
 	
 	https://github.com/alkosmas92/Machine-learning/blob/main/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE_%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC.pdf
 	
-Στην συνέχεια έχουμε τη παρουσίαση του τεχνικού κομματιού του project.
+Στην συνέχεια έχουμε τη παρουσίαση του τεχνικού κομματιού του project, μεταγλωτηση και σχεδίαση.
 
 1) UniTesting:
 
