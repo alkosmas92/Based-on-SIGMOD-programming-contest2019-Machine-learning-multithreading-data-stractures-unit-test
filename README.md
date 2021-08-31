@@ -1,5 +1,4 @@
-Project with machine learning for university lesson:
-Ανάπτυξη Λογισμικού για Πληροφοριακά Συστήματα στο τμήμα Πληροφορικής και Τηλεποικωνιών 
+Project/machine learning for university lesson : Software Development for Information Systems
 
 Δημιουργοί:
  Βαρώνος Διονύσης, Βουρτζούμη Ουρανία, Κοσμάς Αλέξανδρος
